@@ -84,3 +84,5 @@ This service allows you to generate and send a One-Time Password (OTP) via email
 
     ![alt text](image-5.png)
 
+## Conclusion
+- This service can be used to send OTPs via email for user verification, password resets, or any other functionality that requires secure OTP-based authentication.
